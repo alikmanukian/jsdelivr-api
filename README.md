@@ -9,3 +9,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Installation instructions
 
 `npm i && npm run start`
+
+
+You can try: [Demo](https://jsdelivr-api.vercel.app)
